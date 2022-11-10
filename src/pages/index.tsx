@@ -1,9 +1,3 @@
-import type { NextPage } from 'next';
-
-export const Home: NextPage = () => {
-	return (
-		<div>
-			<h1>Dashgo</h1>
-		</div>
-	);
-};
+export default function Home() {
+	return <div>Home</div>;
+}
