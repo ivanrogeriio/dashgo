@@ -13,12 +13,11 @@ interface InputProps extends ChakraInputProps {
 export default function Input({ name, label, ...rest }: InputProps) {
 	return (
 		<FormControl>
-			{!!label && <FormLabel htmlFor={'email'}>E-mail</FormLabel>}
+			{!!label && <FormLabel htmlFor={name}>{label}</FormLabel>}
 
 			<ChakraInput
-				name={'email'}
+				name={name}
 				// placeholder={'E-mail'}
-				type={'email'}
 				focusBorderColor={'pink.500'}
 				bgColor={'gray.900'}
 				variant={'filled'}
