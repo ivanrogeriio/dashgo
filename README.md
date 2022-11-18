@@ -1,4 +1,4 @@
-<img width="1920" alt="dtmoney" src="https://user-images.githubusercontent.com/62813966/202715124-558242d5-3c7c-429b-b2c8-dd9b5d7b2ef9.png">
+<img width="1920" alt="dtmoney" src="https://user-images.githubusercontent.com/62813966/202717839-3f5dea2d-e722-439c-a62f-2d07622333f6.png">
 
 
 # 📋 Descrição
